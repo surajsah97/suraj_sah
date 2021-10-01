@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Prakash Sah</h1>
-<h3 align="center">i'm computer geek person !!</h3>
+<h3 align="center">i'm computer geek !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Praveen-Kumar-Bairagi&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen-Kumar-Bairagi" /> </p>
 
