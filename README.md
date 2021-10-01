@@ -10,7 +10,7 @@
 - 👀 I’m interested in ...Know New things
 -🌱 I’m currently learning **everything 🤣**
 - 👨‍💻 All of my projects are available at[https://github.com/surajsah97](https://github.com/surajsah97)
-- 📫 How to reach me bairagipraveen349@gmail.com
+- 📫 How to reach me surajsahprakash98@gmail.com
 - - ⚡ Fun fact **I Like to Make fun on myself 😂**
 
 ### Blogs posts
