@@ -28,7 +28,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p>
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsaah97&show_icons=true&locale=en&layout=compact" alt="surajsah97" /></p> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsaah97&show_icons=true&locale=en&layout=compact" alt="surajsah97" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajsah97&show_icons=true&locale=en" alt="surajsah97" /></p>
 
