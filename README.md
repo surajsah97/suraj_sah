@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Prakash Sah</h1>
 <h3 align="center">i'm computer geek !!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Praveen-Kumar-Bairagi&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen-Kumar-Bairagi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraj-prakash-sah&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-prakash-sah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajsah97" alt="Suraj-Prakash-Sah" /></a> </p>
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suraj-prakash-sah-6b8855200/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.svg" alt="Praveen-Kumar-Bairagi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/suryasah97/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-color.svg" alt="i.praveenbairagi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suraj-prakash-sah-6b8855200/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.svg" alt="Suraj-prakash-sah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/suryasah97/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-color.svg" alt="i.surajprakashsah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
